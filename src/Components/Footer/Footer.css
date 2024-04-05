@@ -1,0 +1,126 @@
+/* .footer{
+    padding: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #797979;
+    padding: 15px;
+    background-color: black;
+    color: white;
+} */
+
+
+.whats{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 20px;
+    right: 20px;
+    background-color:#70bf29;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 50px;
+    z-index: 100;
+    transition: 0.4s;
+}
+.whats:hover{
+    background-color: #5cbc08;
+}
+.my-float {
+    margin-top: 16px;
+}
+/* .footer ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 40px;
+    justify-content: space-between;
+} */
+ul {
+    margin-left: -30px; line-height: 30px;
+}
+.container-fluid{
+    position: relative; background-color:#161616;
+     color: azure;
+      height: 90vh; padding-top: 400px;
+       /* padding-left :100px; ; */
+}
+.footer{
+    /* background-image: url("./Image/wave-haikei (1).svg"); */
+    width: 100%;
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+    /* height: 100vh; */
+
+.custom-shape-divider-top-1709616390 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+  }
+  li{
+    list-style-type: none;
+    font-size: 20px;
+    line-height: 35px;
+    /* margin-left: 50px; */
+  }
+  .container-fluid li :hover{
+   color:#70bf29;
+  }
+ ul li img{
+    width: 20px;
+    height: 20px;
+ }
+ .ft{
+    color: #70bf29;
+    margin-right: 10px;
+ }
+ .logo{
+    padding-left: 0;
+    margin-left: 0;
+ }
+ul{
+    padding-left: 25px;
+}
+.ht{
+   margin-left: 10px;
+}
+.link{
+    margin-top:10px;
+}
+ h3{
+    font-size: 25px;
+    /* margin-left: -40px; */
+ }
+  .row{
+    display: flex;
+    justify-content: space-around;
+  }
+  .custom-shape-divider-top-1709616390 svg {
+    position: relative;
+    display: block;
+    width: calc(290% + 1.5px);
+    height: 450px;
+  }
+  .custom-shape-divider-top-1709616390 .shape-fill {
+    fill: #f6f6f6;
+  }
+
+/* media queries */
+@media (max-width:600px) {
+    .footer{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer ul li{
+       margin: 10px;
+    }
+    .footer ul{
+        margin-top: 10px;
+    }
+}

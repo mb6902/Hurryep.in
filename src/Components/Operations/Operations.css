@@ -1,0 +1,28 @@
+.operations{
+    margin: 80px auto;
+    width: 100%;
+    text-align: center;
+    padding-left: 70px;
+    background-color:#e1fdc9;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.operations h2{
+    font-size: 40px;
+    color: #70bf29;
+    margin-bottom: 20px;
+    text-transform: none;
+}
+.operations p{
+    color: gray;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    line-height: 40px;
+    font-size: 20px;
+}
+.diagram{
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-bottom: 80px;
+}

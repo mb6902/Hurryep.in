@@ -1,0 +1,26 @@
+.Sec-service{
+    width: 100%;
+    min-height: 50vh;
+    background:linear-gradient(rgba(37, 36, 37, 0.5),rgba(32, 32, 33, 0.5)), url('./image/Service page.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: left;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.Sec-service h2{
+   font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+.Sec-service p{
+    margin-bottom: 10px;
+}
+.Sec-service .text{
+    padding-top: 220px;
+    padding-left: 100px;
+}

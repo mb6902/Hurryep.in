@@ -1,0 +1,35 @@
+.title{
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 70px 0 30px;
+}
+.title h2{
+    text-align: center;
+    font-size: 40px;
+    color: #70bf29;
+    margin-top: 15px;
+    text-transform: none;
+}
+/* .title p {
+  display: flex;
+  align-items: center;
+  width: 500px;
+}
+
+.title p::before, .title p::after {
+  flex: 1;
+  content: '';
+  padding: 2px;
+  background-color: #70bf29;
+  width: 50px;
+  margin: 20px;
+} */
+.buss-icon-black{
+  /* background-color: #fff; */
+  color:black;
+  margin-left: 10px;
+  margin-right: 10px;
+}

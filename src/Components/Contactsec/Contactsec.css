@@ -1,0 +1,26 @@
+.contact-title{
+    width: 100%;
+    min-height: 50vh;
+    background:linear-gradient(rgba(37, 36, 37, 0.5),rgba(32, 32, 33, 0.5)), url('./image/ContactUs.jpg') ;
+    background-size: cover;
+    background-position:center;
+    color: #fff;
+    text-align: left;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.contact-title h2{
+   font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+.contact-title p{
+    margin-bottom: 10px;
+}
+.contact-title .text{
+    padding-top: 220px;
+    padding-left: 100px;
+}
